@@ -1,0 +1,18 @@
+.center{
+    height: 100vh;
+    width: auto;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    gap: 20px;
+    justify-content: center;
+    background-color: #212121;
+}
+#banner{
+    color: white;
+    font-size: 80px;
+}
+#clock{
+    color: white;
+    font-size: 50px;
+}
